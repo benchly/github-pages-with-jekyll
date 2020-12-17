@@ -3,7 +3,7 @@
   date: 2020-12-17
   ---
   
-  ####Lorem ipsum...etc. 
+  Lorem ipsum...etc. 
   
   I even thought about using a Markov Chain to generate some random text, but I'll spare you. 
   
