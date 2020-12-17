@@ -1,5 +1,3 @@
-# RTFM.LOL
-
 Welcome to the direct result of me slamming my face into a manual. I'm super bad at reading all of the instructions, but I'm working on it. Is this a blog? Sure, why not. What can you expect? Well...
 
 - [] Posts from me about whatever project I am working on.
