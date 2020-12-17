@@ -1,7 +1,7 @@
-  ---
-  title: "Words"
-  date: 2020-12-17
-  ---
+---
+title: "Words"
+date: 2020-12-17
+---
   
   Lorem ipsum...etc. 
   
